@@ -10,4 +10,4 @@ If the small square overlaps a white line it gets justPressed twice.
 If the small square overlaps 2 white lines (center square), it gets justPressed 4 times.
 This is with FlxG.worldDivisions = 1.
 If worldDivisions = 6, it happens in other areas too, since there are more divisions.
-It happens with justReleased, too.
+It happens with justReleased, too. 
